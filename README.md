@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=implistarry&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
 </a>
+<figure><embed src="https://wakatime.com/share/@274a1cb8-1d49-4ae0-800d-b081650134cf/9c6b5269-c94d-4c10-ac29-ac4e21c4f881.svg"></embed></figure>
