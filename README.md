@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/implistarry">
   <img align="center"  width="488" height="488" src="https://wakatime.com/share/@274a1cb8-1d49-4ae0-800d-b081650134cf/9c6b5269-c94d-4c10-ac29-ac4e21c4f881.svg"/>
 </a>
+<script src="https://gist.github.com/implistarry/2d61372ce90d9c88c88ab65320b4dfb4.js"></script>
