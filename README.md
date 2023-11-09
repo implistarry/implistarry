@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/implistarry">
+<div>
+  <a href="https://github.com/implistarry">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=implistarry&hide=prs&count_private=true&show_icons=true&theme=material-palenight" alt="implistarry github stats" width="488" height="170" />
-</a>
-<a href="https://github.com/implistarry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=implistarry&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
-</a>
+  </a>
+  <a href="https://github.com/implistarry">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=implistarry&layout=compact&theme=material-palenight" alt="Top Langs" height="168" />
+  </a>
+</div>
